@@ -1,7 +1,7 @@
 # cgnat-vyos
 
 Estes scripts e um "fork" do projeto: https://github.com/helysonoliveira/cgnat-mikrotik
-Meus sinceros agradecimentos ao Helyson Oliveira pelo compartilahmento do codigo.
+Meus sinceros agradecimentos ao Helyson Oliveira por compartilhar o codigo.
 
 Itens necessários:
 -> php
