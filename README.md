@@ -31,8 +31,7 @@ Após configurar tudo, dê o comando:
 
 - php execute.php
 
-Ele ira criar um arquivo com o nome:"cgnat-vyos.txt" na mesma pasta. Copie e cole no terminal do seu mikrotik. 
-	(OBS3.: Todas as regras criadas pelo script, são criadas de formas desabilitadas. Será necessário acessar o winbox, e habilitar as regras em ip > firewall> NAT)
+Ele ira criar um arquivo com o nome:"cgnat-vyos.txt" na mesma pasta. Copie e cole no terminal do seu vyos
 
 Em algumas versões do Shell, você pode ter problema de escrita nos script. Rode o comando na pasta com os script:
 
